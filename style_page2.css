@@ -1,0 +1,202 @@
+body{
+   background-color: #215f21;
+} 
+article{
+    height:680px;
+    width: 80%;
+    background-color:#339933;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white ;
+    border-radius: 10px;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-align: center;
+    overflow: scroll;
+    
+} 
+footer{
+    background-color:#0d260d;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}                 
+header{
+    background-color:#215f21;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#mainhead{
+    background-color:#0d260d;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1, h2, h3{
+    text-decoration: underline;
+    
+}
+ a:visited{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+ a:hover{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: underline;
+}
+ a:active{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+}
+a{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+}
+
+nav{
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline;
+   
+    
+}
+#nav1 li{
+    background-color: #339933;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+     margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
+    border-radius: 10px;
+     margin-bottom: 10px;
+     margin-top: 10px;
+    list-style: none;
+    padding: 10px;
+    width:20%;
+    overflow:hidden;
+    text-align:center;
+       display: block;
+}
+table{
+   width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 3px solid #215f21 ;
+    
+   }
+   th{
+       text-align: center;
+       background-color:#215f21;
+       color: white;
+   }
+   
+   tr{
+       background-color: white;
+       text-align: center;
+       color: black;
+       border: 3px solid #215f21;
+   }
+   td{
+       border: 1px solid #215f21;
+       
+   }
+   
+   ol{
+        list-style: none;
+        text-align: center;
+        
+   }
+   li{
+       text-align: justify;    
+       width: 70%;
+       margin-left: auto;
+        margin-right: auto;
+       
+   }
+   #oltitle{
+       text-align: center;
+   } 
+   #img1 {
+       width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3px solid #215f21;
+   }
+   aside{
+       width:38%;
+     margin-left: auto;
+    margin-right: auto;
+    
+   
+  
+  float: right; 
+   }
+   ul li img{
+       width: 95%;
+       margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border:  3px solid white ;
+   
+         
+   }
+   ul li{
+       
+       width: 95%;
+       margin-left: auto;
+    margin-right: auto;
+    
+   }
+   ul{
+       list-style: none;
+       padding-bottom: 30px;
+       padding-top: 30px;
+   }
+   div{
+    width: 60%;
+    float: left;
+     background-image:url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px solid white;
+}
+figcaption{
+font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+ color: white ;
+ border: 3px solid white ;
+ width: 95%;
+ background-color: #0d260d;
+ text-align: center;
+}

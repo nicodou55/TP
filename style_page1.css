@@ -1,0 +1,139 @@
+body{
+    background-image:url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90%;
+   
+} 
+article{
+    height:680px;
+    width: 40%;
+    background-color:#339933;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white ;
+    border-radius: 10px;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-align: center;
+    overflow:scroll;
+} 
+footer{
+    background-color:#0d260d;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}                 
+header {
+    background-color:#215f21;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+#mainhead{
+    background-color:#0d260d;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1, h2, h3{
+    text-decoration: underline;
+}
+ a:visited{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+}
+ a:hover{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: underline;
+}
+ a:active{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+}
+a{
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-decoration: none;
+    display:block;
+}
+
+    
+
+#nav1 li{
+    background-color: #339933;
+    color: white;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    padding: 15px;
+    width:100%;
+    overflow:hidden;
+}
+#terrain  {
+    float:right;
+    margin-top: -670px;
+    height: 17%;
+    width:17%;
+    font-size: 90%;
+    color: white;
+}
+nav{
+      width:200px; 
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 10px;
+    margin-bottom: 10px;
+}
+h4 {
+     text-align: justify;
+     text-decoration: underline;
+     margin-left: 30px;
+}
+article p {
+    text-align:justify;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+}
+#hr1 {
+        border-style: dotted;
+}
+#position {
+    text-align:justify;
+}
+    
+    
+   
+
