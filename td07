@@ -25,7 +25,7 @@
                          </b>
                      </td>
                      <td>
-                         <input type="text" name="newpassword">
+                         <input type="password" name="newpassword">
                      </td>
                  </tr>
                  <tr>
@@ -35,7 +35,7 @@
                          </b>
                      </td>
                      <td>
-                         <input type="text" name="confirmnewpassword">
+                         <input type="password" name="confirmnewpassword">
                      </td>
                  </tr>
             </table>
